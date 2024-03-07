@@ -1,1 +1,1 @@
-# antivirusLandingPage
+# antiSnoopwareLandingPage
